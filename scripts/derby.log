@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Apr 26 23:33:17 EEST 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0196-73cd-ecef-00000bc11b78 
+on database directory memory:/home/hazem/snowflake_dbt_spark/scripts/metastore_db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5ffd2b27 
+Loaded from file:/home/hazem/snowflake_dbt_spark/snowflake_dbt/lib/python3.12/site-packages/pyspark/jars/derby-10.14.2.0.jar
+java.vendor=Ubuntu
+java.runtime.version=11.0.26+4-post-Ubuntu-1ubuntu124.04
+user.dir=/home/hazem/snowflake_dbt_spark/scripts
+os.name=Linux
+os.arch=amd64
+os.version=5.15.167.4-microsoft-standard-WSL2
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

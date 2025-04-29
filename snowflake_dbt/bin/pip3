@@ -1,4 +1,4 @@
-#!/home/hazem/snowflake_dbt_spark/snowflake_dbt/bin/python3
+#!/home/hazem/snowflake_dbt_spark/snowflake_dbt/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
